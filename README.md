@@ -36,7 +36,7 @@ To run the Bot Battlr application locally, follow these steps:
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/Nyandiekahh/Code-Challenge-Bot-Battlr
 ```
 
 ### Install Dependencies
@@ -73,12 +73,6 @@ The main components of the Bot Battlr application are:
 
 ### BotCollection.js
 - Renders a list of all available bots from the server.
-
-### BotCard.js
-- Displays information about an individual bot.
-
-### BotSpecs.js
-- Renders detailed specifications of a bot when the "View Details" button is clicked.
 
 ### YourBotArmy.js
 - Displays the bots that the user has enlisted into their army.
